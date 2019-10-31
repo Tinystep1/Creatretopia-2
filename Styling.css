@@ -3,36 +3,39 @@
     background-color: #2FFB01;
     color: #FB7E00;
     }
-  #link{
+#link{
     text-align: center;
   }
-  .thin-orange-border{
+.thin-orange-border{
     border-color: orange;
     border-width: 5px;
     border-style: solid;
   }
-  .green-background{
+.green-background{
     background-color: #2FFB01;
   }
-  #smallImage{
-      width: 100px;
-      border-color: orange;
-      border-width: 5px;
-      border-style: solid;
-      border-radius: 50%;
+#smallImage{
+    width: 100px;
+    border-color: orange;
+    border-width: 5px;
+    border-style: solid;
+    border-radius: 50%;
     }
-  #animalIntro{
-      background-color: #2FFB01;
+#animalIntro{
+    background-color: #2FFB01;
     }
-  #animalInfo{
-      background-color: #2FFB01;
+#animalInfo{
+    background-color: #2FFB01;
     }
-  #button{
-      text-align: center;
+#button{
+    text-align: center;
     }
-  #form{
-      background-color: #2FFB01;
+#form{
+    background-color: #2FFB01;
     }
-  #return-links{
+#return-links{
     background-color: #2FFB01
   }
+#question{
+    color: #FB7E00;
+}
