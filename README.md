@@ -34,4 +34,5 @@
 <p>I am also doing Computer Programming for Everyone, which is currently looking at algortithms, which I will need to use for shows both in the first or second update of the <a href="https://github.com/Tinystep1/Creaturetopia-Sample">sample game</a>, and in the actual full reease game too.</p>
 <h3><a href="https://github.com/Tinystep1/Creatretopia-2/blob/master/README.md">Full Game<a></h3>
 <p>Working through Basic CSS section of the Responsive Web Design Certification on<a href="https://www.freecodecamp.org/learn">freecodecamp.com</a> I have decided that margins will be useful between my images of items in the store in the full game, and equipped items on the animal pages of players. They will need even padding to center the images in the boxes. These parts of the game will be worked on at a later date.</p>
-<p>I edited the sizing of the banner image on the idex page to make it responsive for smaller device screens.</p>
+<p>I edited the sizing of the banner image on the <a href="./index.html">index page</a> to make it responsive for smaller device screens.</p>
+<p>I edited the linked images on the <a href="./index.html">index page</a> to stop them from apperaing pixelated on high resolution screens. I will be doing the same with most images used on the site in the future.</p>
