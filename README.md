@@ -42,3 +42,4 @@
 <p>I fised the headings on the FAQ page so that they have semantic menaing. For further semantic meaning, I also made sure every page had a <b>main</b> section.</p>
 <p>I also added a base for a news and announcement page for the site. It has an announcement with placeholder text to show the formatting they will have.</p>
 <p>I added a header element to each page, and updating the CSS to match new page titles. I also added navigation elements to the appropriate pages and sections.</p>
+<p>I added the form tag to the <a href="registration-page.html">Registration Page</a> form. I also added labels to all the iput boxes and a datepicker for the birthdate setion of the form. The password textbox has also been changed to the password type to hide the information. </p>

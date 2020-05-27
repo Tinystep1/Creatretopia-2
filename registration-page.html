@@ -48,30 +48,25 @@
     <div class="green-background">
     <section id="form">
       <h2>Registration Form</h2>
-      <p>
-        User Name (Don't use your real name)
-      </p>
-      <form action="#">
-        <input type="text" placeholder="enter a name" required>
-        <p>
-          Password
-        </p>
-        <input type="text" placeholder="at least 8 characters long" required>
-        <p>
-          Date of Birth (if you are under 13 you will need your parents permission)
-        </p>
-        <input type="text" placeholder="DD/MM/YYYY" required>
-        <p>
-          Email
-        </p>
-          <input type="text" placeholder="enter a valid email address" required>
-        <p>
-          Parents email for under 13 year olds)
-        </p>
-        <input type="text" placeholder="enter a valid email address">
-        <p>
+      <form>
+        <form action="#">
+          <label for="username">Enter a username (not your real name)</label>
+          <input type="text" id="username" name="username" placeholder="enter a name" required>
+          <br>
+          <label for="password">Enter a passwrod:</label>
+          <input type="password" id="passwrord" name="password" placeholder="at least 8 characters long" required>
+          <br>
+          <label for="birthdate">Enter your date of birth:</label>
+          <input type="date" id="birthdate" name="birthdate" placeholder="DD/MM/YYYY" required>
+          <br>
+          <label for="email">Enter your email address:</label>
+          <input type="text" id="email" name="email" placeholder="enter a valid email address" required>
+          <br>
+          <label for="pemail">Enter your parents email address:</label>
+          <input type="text" id="pemail" name="pemail" placeholder="enter a valid email address">
+          <br>
           <label for="pp&tos"><input id="pp&tos" value="accepted" type="checkbox" checked name="accept-conditions">I have read and accept the Privacy Policy and Terms and Conditions</label>
-        </p>
+      </form>
     </section>
     </div>
      <!--button to submit-->
