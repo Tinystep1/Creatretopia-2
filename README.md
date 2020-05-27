@@ -41,3 +41,4 @@
 <p>I reorganised my CSS and synced it up with that in my CMfive database. Now they have the element specific styles at the top, then the class styles, and finally, the ID styles. I also deleted the irrelevant or repeated styles, shuch as the serveral id styles which do the same as the green-background class.</p>
 <p>I fised the headings on the FAQ page so that they have semantic menaing. For further semantic meaning, I also made sure every page had a <b>main</b> section.</p>
 <p>I also added a base for a news and announcement page for the site. It has an announcement with placeholder text to show the formatting they will have.</p>
+<p>I added a header element to each page, and updating the CSS to match new page titles. I also added navigation elements to the appropriate pages and sections.</p>
