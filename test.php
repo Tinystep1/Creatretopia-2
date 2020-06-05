@@ -51,3 +51,43 @@ $b xor $c;
 //Expression is FALSE
 ! $a;
 ?>
+
+<?php
+$price = $400;
+$discount = 50%;
+if $pension = "yes" {print "You have gotten a discount. Your new price is $price*$discount."};
+else {print "Sorry. You do not qualify for a pension card holders discount."};
+?>
+
+<?php
+$price = $400;
+if ($card = "pension")
+{
+    $discount = 50%;
+    print "You have gotten a discount. Your new price is $price*$discount";
+}
+else
+{
+    if ($card = "student")
+    {
+        $discount = 25%;
+        print "You have gotten a discount. Your new price is $price*$discount";
+    }
+    else
+    {
+        print "Sorry. You do not qualify for a pension card holders discount.";
+    }
+}
+?>
+
+<?php
+int number = 16;
+if (number % 2 == 0 && number % 4 == 0)
+{
+  System.out.println("It's divisible by two and four!");
+}
+else
+{
+  System.out.println("It's not divisible by two and four!");
+}
+?>
