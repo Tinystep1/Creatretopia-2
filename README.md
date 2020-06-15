@@ -45,3 +45,4 @@
 <p>I added the form tag to the <a href="registration-page.html">Registration Page</a> form. I also added labels to all the iput boxes and a datepicker for the birthdate setion of the form. The password textbox has also been changed to the password type to hide the information. </p>
 <p>I have added a test.php file. This is only for practicing PHP while I'm learning some of the basics rather than the pre-constructed databse template I am creating over in creaturetopiaCmfive. It is not part of the actual game, and will be deleted at a later date.</p>
 <p>I added a target of a new tab or window to the appropriate links.</p>
+<p>I added the onclick event handler to the submit button on the <a href="./registration-page.html">registration page</a> and connecting the <a href="./registration-page.js">appropriate JavaScript file</a> to it.</p>
