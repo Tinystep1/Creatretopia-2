@@ -46,3 +46,4 @@
 <p>I have added a test.php file. This is only for practicing PHP while I'm learning some of the basics rather than the pre-constructed databse template I am creating over in creaturetopiaCmfive. It is not part of the actual game, and will be deleted at a later date.</p>
 <p>I added a target of a new tab or window to the appropriate links.</p>
 <p>I added the onclick event handler to the submit button on the <a href="./registration-page.html">registration page</a> and connecting the <a href="./registration-page.js">appropriate JavaScript file</a> to it.</p>
+<p>I've truned the leagl section at the bopttom of each page into a text file and added the inlude function on each page. I will need to put this into the repository with the PHP database at a later date.</p>
