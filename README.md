@@ -1,7 +1,12 @@
 <h1>Creaturetopia (PHP)</h1>
+<h2>Important Notes</h2>
 <h3>Earliaer work</h3>
 <p>This is a continuation of my <a href="https://github.com/Tinystep1/Creaturetopia">Creatutopia</a> respository. It will include php, so will be code only.</p>
 <p>To see a demo of my site, see my Creatutopia repository (above link).</p>
+<h3>Commits</h3>
+<p>As of 09/01/2021 all future commits will be appeneded by a type chosen from those used in Conventional Commits unless otherwise specified.</p>
+<p>The 'docs' type will be used for spelling and grammar checks and similar edits to the page content.</p>
+<p>During the pre-procuction phase 'page' will be used instead of 'feat' for any new pages that are added to the site before launch.</p>
 <h3> Continuation of The RET Course</h3>
 <p>I removed the old links on the <a href="./animal-reference.html">species list</a> and <a href="./petinfo.html">Animal Info</a> pages.</p> 
 <p>I have started an <a href="./faq.html">FAQ page</a> and connected it to the CSS file for the site. I will add the questions and answers soon, looking at other sites for possible questions, and also add othrs people ask me when I talk about my project that are appropriate i.e. Focusing on the game and game play itself, not code, etc.</p>
