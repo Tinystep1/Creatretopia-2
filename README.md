@@ -1,8 +1,8 @@
 <h1>Creaturetopia (PHP)</h1>
 <h2>Important Notes</h2>
 <h3>Earliaer work</h3>
-<p>This is a continuation of my <a href="https://github.com/Tinystep1/Creaturetopia">Creatutopia</a> respository. It will include php, so will be code only.</p>
-<p>To see a demo of my site, see my Creatutopia repository (above link).</p>
+<p>This is a continuation of my <a href="https://github.com/Tinystep1/Creaturetopia">Creatutopia</a> respository.</p>
+<p>To see a demo of my site <a href="https://tinystep1.github.io/Creatretopia-2/">click here</a>.</p>
 <h3>Commits</h3>
 <p>As of 09/01/2021 all future commits will be appeneded by a type chosen from those used in Conventional Commits unless otherwise specified.</p>
 <p>The 'docs' type will be used for spelling and grammar checks and similar edits to the page content.</p>
