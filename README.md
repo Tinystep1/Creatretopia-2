@@ -55,3 +55,5 @@
 <p>I added the onclick event handler to the submit button on the <a href="./registration-page.html">registration page</a> and connecting the <a href="./registration-page.js">appropriate JavaScript file</a> to it.</p>
 <p>I've truned the leagl section at the bopttom of each page into a text file and added the inlude function on each page. I will need to put this into the repository with the PHP database at a later date.</p>
 <p>I added the legal included file to the PHP version of Creaturetopia. It also has a header file that I have included, and a menu.txt file prepared. At the moment it only has a comment in it, as I will create the proper menu at a later date. It can then be included on all pages.</p>
+<h2>Needs to be Done<h2>
+<p>Look at putting a purple border #b802f9 around titles on site. It will improve contrast for the large text while keeping with the established green/orange theme planned for the site</p>
